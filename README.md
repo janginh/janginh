@@ -1,6 +1,6 @@
 <h1 align="center">JangInHwan</h1>
 <h3 align="left">Connect with me:</h3>
-e-mail : znfnvkd456@naver.com
+e-mail : znfnkvd456@gmail.com
 <p align="left">
 </p>
 
