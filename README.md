@@ -1,4 +1,4 @@
-<h1 align="center">JangInHwan</h1>
+<h1 align="left">JangInHwan</h1>
 <h3 align="left">Connect with me:</h3>
 e-mail : znfnkvd456@gmail.com
 <p align="left">
