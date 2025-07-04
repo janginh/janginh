@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm JangInHwan</h1>
+<h1 align="center">JangInHwan</h1>
 <h3 align="left">Connect with me:</h3>
+e-mail : znfnvkd456@naver.com
 <p align="left">
 </p>
 
