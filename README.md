@@ -1,7 +1,12 @@
-<h1 align="left">JangInHwan</h1>
+<h1 align="left">Jang In Hwan</h1>
 <h3 align="left">Connect with me:</h3>
 e-mail : znfnkvd456@gmail.com
+
 <p align="left">
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
